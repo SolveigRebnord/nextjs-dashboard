@@ -3,14 +3,16 @@
 This is the end product after following Learn NextJS: <a href='https://nextjs.org/learn/dashboard-app'> App Router Course</a>
 
 This free, interactive course was the perfect start to learn the main features of Next.js <br>
-Building this full-stack web application gave:
-* Great insight to the core concepts of NextJS and its benefits <br>
-* Beginner knowledge and understanding of important topics, like `SSR vs CSR rendering` and managing the built-in `API Routes`
+Building this full-stack web application:
+* Gave great insight to the core concepts of `NextJS` and its benefits <br>
+* Resulted in knowledge and understanding of important topics, like `SSR vs CSR rendering` and managing the built-in `API Routes`
+* Enhanced usage and knowledge of `Typescript`
 
 ---
 ### You'll find
 * React
 * NextJS
+* Typescript
 * Tailwind CSS
 * Vercel
 ---
